@@ -22,7 +22,8 @@ I used the TMDB API for all of the data and  Firebase Authentication to give log
 
 2)Git cloning the repository . 
 
-3)install the app dependancies by running npm install/yarn install
+
+3)install the app dependancies by running npm install
 
 4)After the node-modules packages and other dependancies have been installed run npm start or npm run start to run the app/ yarn start
 

@@ -16,6 +16,7 @@
 I used the TMDB API for all of the data and  Firebase Authentication to give login functionality.Stored user specific data with a React front-end and a Firebase back-end. I used Firestore which is cloud storage with Firebase to save data. The front-end is styled with Tailwind CSS - an incredible CSS framework to save time styling .
 
 
+
 # Project-Setup-Instructions
 
 1)Installation of the Visual studio code .
@@ -33,7 +34,8 @@ HTML - Was used as a template to hold the React components of the app via the ro
 
 # Known-Bugs
 
-The project works correctly.
+The front-end is working properly.
+Yet to implement the backend.
 
 # Development
 

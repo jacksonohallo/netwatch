@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 const Login = () => {
   return (
-    
+
        <>
       <div className='w-full h-screen'>
         <img
@@ -22,14 +22,14 @@ const Login = () => {
               >
                 <input
                   //onChange={(e) => setEmail(e.target.value)}
-                  className='p-3 my-2 bg-gray-700 rouded'
+                  className='p-3 my-2 bg-gray-700 rounded'
                   type='email'
                   placeholder='Email'
                   autoComplete='email'
                 />
                 <input
                  // onChange={(e) => setPassword(e.target.value)}
-                  className='p-3 my-2 bg-gray-700 rouded'
+                  className='p-3 my-2 bg-gray-700 rounded'
                   type='password'
                   placeholder='Password'
                   autoComplete='current-password'

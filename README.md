@@ -1,9 +1,9 @@
 
 # NETFLIX-CLONE
 
-## Top Page Screenshot
+<!-- ## Top Page Screenshot
 
-![image](./src/Assets/a.png)
+![image](./src/Assets/a.png) -->
 
 
 
